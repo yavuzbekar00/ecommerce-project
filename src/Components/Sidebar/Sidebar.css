@@ -1,0 +1,14 @@
+.sidebar-container {
+    width: 300px;
+    height: calc(100vh - 75px);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gecici {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(217, 217, 217);
+}
